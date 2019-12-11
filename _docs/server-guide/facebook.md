@@ -1,6 +1,6 @@
 ---
 title: Facebook
-category: Contact Syncing
+category: 서버 가이드
 order: 1
 ---
 
