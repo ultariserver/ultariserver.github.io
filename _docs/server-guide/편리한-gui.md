@@ -1,5 +1,5 @@
 ---
-title: 편리한 GUI
+title: GUI
 category: 서버 가이드
 order: 1
 ---
